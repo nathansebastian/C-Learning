@@ -1,0 +1,14 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-o",
+      "main.out",
+      "main.c"
+    ],
+    "directory": "/root/home/Documents/C/Tutorial/NewTypes",
+    "file": "/root/home/Documents/C/Tutorial/NewTypes/main.c",
+    "output": "/root/home/Documents/C/Tutorial/NewTypes/main.out"
+  }
+]

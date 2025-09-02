@@ -1,0 +1,14 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-o",
+      "main.out",
+      "main.c"
+    ],
+    "directory": "/root/home/Documents/C/Tutorial/Strings",
+    "file": "/root/home/Documents/C/Tutorial/Strings/main.c",
+    "output": "/root/home/Documents/C/Tutorial/Strings/main.out"
+  }
+]

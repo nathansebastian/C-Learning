@@ -1,0 +1,14 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-o",
+      "main.out",
+      "main.c"
+    ],
+    "directory": "/root/home/Documents/C/Tutorial/Pointers",
+    "file": "/root/home/Documents/C/Tutorial/Pointers/main.c",
+    "output": "/root/home/Documents/C/Tutorial/Pointers/main.out"
+  }
+]
